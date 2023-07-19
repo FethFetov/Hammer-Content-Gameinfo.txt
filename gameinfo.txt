@@ -37,6 +37,7 @@ game      "E:/Steam/steamapps/common/Left 4 Dead 2/left4dead2_dlc2/pak01.vpk"
 game      "E:/Steam/steamapps/common/Left 4 Dead 2/left4dead2_dlc3/pak01.vpk"
 game      "E:/Steam/steamapps/common/left 4 dead/left4dead/pak01.vpk"
 game      "E:/Steam/steamapps/common/left 4 dead/left4dead_dlc3/pak01.vpk"
+game	  "E:/Steam/steamapps/common/GarrysMod/garrysmod_dir.vpk"
 		}
 	}
 }
