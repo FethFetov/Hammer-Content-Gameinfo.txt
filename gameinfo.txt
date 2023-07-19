@@ -71,10 +71,10 @@ game				"E:/Steam/steamapps/common/Half-Life 2/ep2/ep2_pak.vpk"
 game				"E:/Steam/steamapps/common/Half-Life 2/lostcoast/lostcoast_pak.vpk"
 game				"E:/Steam/steamapps/common/Half-Life 2 Deathmatch/hl2mp/hl2mp_pak.vpk"
 game				"E:/Steam/steamapps/common/Counter-Strike Source/cstrike/cstrike_pak.vpk"
-game				"E:/Steam/steamapps/common/GarrysMod/garrysmod"
-game				"E:/Steam/steamapps/common/GarrysMod/garrysmod/garrysmod_dir.vpk"
-game                            "E:/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/pak.vpk"
-game                            "E:/Steam/steamapps/common/Day of Defeat Source/dod/dod.vpk"
+game				"E:\Steam\steamapps\common/GarrysMod/garrysmod/garrysmod.vpk"
+game                            "E:\Steam\steamapps\common\GarrysMod\garrysmod\garrysmod_dir.vpk"
+game                            "E:/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/pak01.vpk"
+game                            "E:/Steam/steamapps/common/Day of Defeat Source/dod/dod_pak.vpk"
 		}
 	}
 }
