@@ -35,6 +35,16 @@
 			game+mod      "E:/Steam/steamapps/common/Left 4 Dead 2/left4dead2_dlc3/pak01.vpk"
 			game+mod      "E:/Steam/steamapps/common/left 4 dead/left4dead/pak01.vpk"
 			game+mod     "E:/Steam/steamapps/common/left 4 dead/left4dead_dlc3/pak01.vpk"
+			game+mod	"E:/Steam/steamapps/common/insurgency2/insurgency/insurgency_materials.vpk"
+			game+mod	"E:/Steam/steamapps/common/insurgency2/insurgency/insurgency_misc.vpk"
+			game+mod	"E:/Steam/steamapps/common/insurgency2/insurgency/insurgency_models.vpk"
+			game+mod	"E:/Steam/steamapps/common/insurgency2/insurgency/insurgency_sound.vpk"
+			game+mod	"E:/Steam/steamapps/common/insurgency2/insurgency/insurgency_particles.vpk"
+			game+mod	"E:/Steam/steamapps/common/Black Mesa/bms/bms_materials.vpk"
+			game+mod	"E:/Steam/steamapps/common/Black Mesa/bms/bms_misc.vpk"
+			game+mod	"E:/Steam/steamapps/common/Black Mesa/bms/bms_models.vpk"
+			game+mod	"E:/Steam/steamapps/common/Black Mesa/bms/bms_sounds.vpk"
+			game+mod	"E:/Steam/steamapps/common/Black Mesa/bms/bms_textures.vpk"
 		}
 	}
 }
